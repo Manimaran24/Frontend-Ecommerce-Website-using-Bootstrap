@@ -77,7 +77,7 @@ section {
 }
 
 #about {
-    background-image: url(assert/abt8.jpg.jpg);
+    background-image: url(assert/abt8.jpg);
     background-size: 1350px;
 
     background-position: calc();
@@ -220,7 +220,7 @@ h2 {
 }
 
 #contact {
-    background-image: url(assert/cn2.jpg.jpg);
+    background-image: url(assert/cn2.jpg);
     background-size: 800px;
     background-position: calc();
     flex-direction: column;

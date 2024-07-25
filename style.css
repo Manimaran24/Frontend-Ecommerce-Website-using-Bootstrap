@@ -46,7 +46,7 @@ section {
 }
 
 #Home {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(252, 128, 128, 0.729)), url(assert/bgh.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(252, 128, 128, 0.729)), url('assert/bgh.jpg');
     background: size 100px;
     background-position: center;
     flex-direction: column;
@@ -77,7 +77,7 @@ section {
 }
 
 #about {
-    background-image: url(assert/abt8.jpg);
+    background-image: url('assert/abt8.jpg');
     background-size: 1350px;
 
     background-position: calc();
@@ -95,7 +95,7 @@ section {
 }
 
 #product {
-    background-image: url(assert/abt6.jpg);
+    background-image: url('assert/abt6.jpg');
     background-size: 1800px;
     background-position: center;
     flex-direction: column;
@@ -220,7 +220,7 @@ h2 {
 }
 
 #contact {
-    background-image: url(assert/cn2.jpg);
+    background-image: url('assert/cn2.jpg');
     background-size: 800px;
     background-position: calc();
     flex-direction: column;

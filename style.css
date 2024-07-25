@@ -95,7 +95,7 @@ section {
 }
 
 #product {
-    background-image: url('assert/abt6.jpg.jpg');
+    background-image: url('assert/abt6.jpg');
     background-size: 1800px;
     background-position: center;
     flex-direction: column;
@@ -220,7 +220,7 @@ h2 {
 }
 
 #contact {
-    background-image: url('assert/cn2.jpg.jpg');
+    background-image: url('assert/cn2.jpg');
     background-size: 800px;
     background-position: calc();
     flex-direction: column;
